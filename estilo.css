@@ -1,0 +1,9 @@
+body{
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.formulario{
+    background-color: cadetblue;
+    padding: 10px 10px;
+}
